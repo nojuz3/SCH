@@ -1,0 +1,26 @@
+table{
+    border:4px solid black;
+
+}
+th,td{
+    border:4px inset gray;
+}
+.pink{
+    color: hotpink;
+}
+li:nth-child(6){
+    text-decoration: underline;
+}
+.blue{
+    color: blue;
+}
+h1,h2{
+    color:rgb(3, 187, 3);
+}
+label{
+    color:rgb(255, 166, 0);
+    font-weight: bold;
+}
+span{
+    color:chartreuse;
+}

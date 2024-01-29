@@ -1,0 +1,28 @@
+
+.one{
+    object-fit: fill;
+    width: 180px;
+    height: 130px;
+}
+
+.two{
+    object-fit: contain;
+    width: 100px;
+    height: 300px;
+}
+.three{
+    object-fit: cover;
+    width: 2cm;
+    height: 4cm;
+}
+.four{
+    width: 6cm;
+    height: 8cm;
+    object-fit: scale-down;
+}
+body{
+    background-image:url(https://i.pinimg.com/736x/ac/fa/ca/acfaca7bc9d9e5a25971e9c1f585619d.jpg);
+    background-position: center;
+    background-size: 30px;
+    background-repeat:round;
+}
