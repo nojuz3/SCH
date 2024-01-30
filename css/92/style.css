@@ -1,0 +1,47 @@
+.head{
+    background-color: aqua;
+    padding: 3vh;
+}
+.logo{
+    background:gold ;
+    float: left;
+    padding: 1vh;
+    margin: 1vh;
+}
+nav{
+    background: yellowgreen;
+    float:right;
+    padding: 1vh;
+    margin: 1vh;
+}
+main{
+    background-color: gray;
+    padding: 2vh;
+    height: 14vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.left{
+ background-color: bisque;
+ float: left;
+ padding: 6vh;
+ margin: 2vh;
+}
+.top{
+background-color: aquamarine;
+padding: 2vh;
+border: 5px solid gray;
+float: right;
+
+}
+.bottom{
+background-color: khaki;
+float: right;
+padding: 2vh;
+border: 1vh solid gray;
+}
+footer{
+ background: teal;
+}

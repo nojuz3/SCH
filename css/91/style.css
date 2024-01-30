@@ -1,0 +1,30 @@
+header{
+    background: lawngreen;
+    text-align: center;
+    height: 50px;
+}
+nav{
+    background: khaki;
+}
+
+.left{
+    float: left;
+    background:powderblue;
+    padding: 2rem;
+}
+.right{
+    float: right;
+    background: orange;
+    padding: 2rem;
+}
+main{
+    background: hotpink;
+    padding: 2rem;
+}
+footer{
+    background: salmon;
+}
+*{
+    border: 5px solid white;
+    
+}

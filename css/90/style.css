@@ -1,0 +1,22 @@
+.rem{
+    border: 10px dashed black;
+    border-radius: 10px;
+    width: 25rem;
+    height: 13rem;
+    box-sizing: border-box;
+    overflow: auto;
+    block-size: fit-content;
+    word-wrap: break-word;
+}
+img{
+    object-fit: contain;
+    width: 180px;
+    height: 190px;
+    float: right;
+}
+h1,h2{
+    color: rgb(134, 2, 2);
+}
+body{
+    background-color: rgb(204, 204, 204);
+}
