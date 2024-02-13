@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_1280.png);
+}
+div{
+    text-align: center;
+    background-color: rgba(82, 82, 82, 0.515);
+    color: wheat;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    padding: 50px;
+    width:150px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    block-size: fit-content;
+    word-wrap: break-word;
+}

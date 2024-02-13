@@ -1,0 +1,56 @@
+body{
+    background-color: gray;
+    margin-right: 50px;
+    margin-left: 50px;
+    box-sizing: border-box;
+}
+.bg-2{
+    border: 5px inset rgb(185, 185, 185);
+    background-color: white;
+    border-radius: 10px;
+    content: "";
+    position: absolute;
+    width: 1600px;
+}
+label{
+    color: gray;
+    margin-right: 5px;
+    padding: 10px 20px;
+}
+input{
+    width: 300px;
+    margin-bottom: 5px;
+}
+select{
+    width: 300px;
+    margin-bottom: 5px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(78, 78, 78);
+    color: white;
+    border-radius: 10px;
+}
+.under{
+    height: 1px; 
+    background-color: #ccc; 
+    margin: 20px 0;
+    margin-right: 5px;
+    margin-left: 5px; 
+}
+.pasto:disabled{
+    background-color: gray;
+    
+}
+.a1{
+    float: right;
+    margin: 3vh;
+}
+.a2{
+    color: gray;
+    text-decoration: none;
+}
