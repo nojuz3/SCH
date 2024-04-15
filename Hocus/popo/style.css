@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
+.righTop{
+    display: flex;
+    width: 40%;
+    height: 400px;
+    flex-direction: column;
+}
+
+.top{
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 400px;
+}
+
+.rb{
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 80px;
+    border: 1px solid green
+}
+.etc{
+    width: 40%;
+    height: 200px;
+    background-color: rgb(255, 0, 149);
+    border-radius: 80px;
+    border: 1px solid green;
+}
+
+
+
+.bot{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 400px;
+}
+
+.long{
+    width: 60%;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 80px;
+    border: 1px solid green
+}
+.etcB{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 0, 149);
+    border-radius: 80px;
+    border: 1px solid green;
+}
